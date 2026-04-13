@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Boldonse&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+@theme{
+--font-Boldonse:  "Archivo Black", sans-serif;
+--font-arabic:  "Alexandria", sans-serif;
+--color-baio:#A1A1AA;
+}
