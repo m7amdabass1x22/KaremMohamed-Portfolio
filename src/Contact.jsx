@@ -5,12 +5,12 @@ import mshmohem from './assets/photos/ChatGPT Image Apr 13, 2026, 10_50_15 PM.pn
 
 export default function Contact() {
     return (
-        <div className='w-full flex justify-center bg-black h-[259vh]    pt-10' >
+        <div className='w-full flex justify-center bg-black h-auto    pt-10' >
             <div className='container block md:flex mt-10 gap-10'>
                 <div className=' justify-center w-full  md:w-[50%] h-150   flex   '>
                     <img src={karem} className='h-120  rounded-3xl animate__animated animate__fadeInLeft' alt="" />
                 </div>
-                <div className=' w-full md:w-[50%] h-150 mt-10 flex pr-10  text-end flex-col items-end gap-10 animate__animated animate__fadeInLeft'>
+                <div className=' w-full md:w-[50%] mt-10 flex pr-10  text-end flex-col items-end gap-10 animate__animated animate__fadeInLeft'>
                     <h1 className=' text-5xl   font-arabic font-bold text-white  '>
                         KAREM MOHAMED
                     </h1>
