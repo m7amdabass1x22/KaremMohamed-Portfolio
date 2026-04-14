@@ -1,4 +1,3 @@
-import React from 'react'
 import kwalesvideo from './assets/vedios/IMG_9417.MP4'
 import kwalesvideo1 from './assets/vedios/IMG_9991.MP4'
 import kwalesvideo2 from './assets/vedios/IMG_9992.MP4'
