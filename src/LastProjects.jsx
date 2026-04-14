@@ -14,7 +14,6 @@ export default function LastProjects() {
                         <h1 className=' w-full text-6xl  font-arabic font-bold text-white' > اخر الاعمال</h1>
                         <p className=" md:text-baio font-arabic">مجموعه من المشاريع  التي  تعكس  شغفي  بالتميز في  المنتاج و التصوير </p>
 
-
                     </div>
 
 

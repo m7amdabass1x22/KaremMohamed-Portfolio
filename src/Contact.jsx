@@ -5,9 +5,9 @@ import mshmohem from './assets/photos/ChatGPT Image Apr 13, 2026, 10_50_15 PM.pn
 
 export default function Contact() {
     return (
-        <div className='w-full flex justify-center bg-black   pt-10' >
+        <div className='w-full flex justify-center bg-black h-[259vh]    pt-10' >
             <div className='container block md:flex mt-10 gap-10'>
-                <div className=' justify-center md:w-[50%] h-[150]   flex   '>
+                <div className=' justify-center w-full  md:w-[50%] h-150   flex   '>
                     <img src={karem} className='h-120  rounded-3xl animate__animated animate__fadeInLeft' alt="" />
                 </div>
                 <div className=' w-full md:w-[50%] h-150 mt-10 flex pr-10  text-end flex-col items-end gap-10 animate__animated animate__fadeInLeft'>
@@ -26,7 +26,7 @@ phone nomber: 01028619308                    </h1>
    <h1 className=' text-4xl   font-arabic font-bold text-white  '>
 ⬇ i use to make videos       ⬇             </h1>
 
-<div className=' block md:flex gap-10 justify-center items-center '>
+<div className=' block md:flex gap-10 justify-center items-center bg-black  '>
 
                   <div className='h-15 w-60 flex justify-center items-center mb-2 bg-white'>
 <img className='h-10 animate__animated hover:animate__fadeInLeft' src={capcutlogo} h alt="" />
