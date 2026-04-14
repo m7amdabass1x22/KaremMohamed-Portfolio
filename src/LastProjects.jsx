@@ -2,7 +2,7 @@ import project1 from './assets/vedios/ayhaga.MOV'
 import project4 from './assets/vedios/IMG_9414.MP4'
 import project2 from './assets/vedios/ahyagaga bardo.MOV'
 import project3 from './assets/vedios/IMG_9418.MP4'
-import project6 from './assets/vedios/mothaf.mov'
+import project6 from './assets/vedios/IMG_9995.MP4'
 import project5 from './assets/vedios/IMG_9416.MP4'
 
 export default function LastProjects() {
