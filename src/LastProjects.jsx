@@ -27,28 +27,28 @@ export default function LastProjects() {
                 </div>
 <div className="grid grid-col-1 md:grid-cols-3 gap-5 animate__animated animate__fadeInLeft ">
 <div className="h-80 md:h-50  rounded-3xl border-4 border-white">
-<video className=' w-full h-full object-cover  rounded-3xl' controls src={project1}></video>
-
-</div>
-
-<div className="h-80 md:h-50 rounded-3xl border-4 border-white">
 <video className=' w-full h-full object-cover  rounded-3xl' controls src={project2}></video>
 
 </div>
+
 <div className="h-80 md:h-50 rounded-3xl border-4 border-white">
-<video className=' w-full h-full  rounded-3xl' controls src={project3}></video>
+<video className=' w-full h-full object-cover  rounded-3xl' controls src={project1}></video>
+
+</div>
+<div className="h-80 md:h-50 rounded-3xl border-4 border-white">
+<video className=' w-full h-full  rounded-3xl' controls src={project4}></video>
 
 </div>
 <div className="h-80 md:h-50 rounded-3xl border-4 border-white flex justify-center items-center">
-<video className=' w-full h-full   rounded-3xl' controls src={project4}></video>
-
-</div>
-<div className="h-80 md:h-50 rounded-3xl border-4 border-white">
-<video className=' w-full h-full   rounded-3xl' controls src={project5}></video>
+<video className=' w-full h-full   rounded-3xl' controls src={project3}></video>
 
 </div>
 <div className="h-80 md:h-50 rounded-3xl border-4 border-white">
 <video className=' w-full h-full   rounded-3xl' controls src={project6}></video>
+
+</div>
+<div className="h-80 md:h-50 rounded-3xl border-4 border-white">
+<video className=' w-full h-full   rounded-3xl' controls src={project5}></video>
 
 </div>
 
