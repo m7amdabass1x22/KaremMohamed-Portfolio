@@ -1,5 +1,5 @@
 import React from 'react'
-import karem from './assets/photos/contantimge.PNG'
+import karem from './assets/photos/banana.PNG'
 import capcutlogo from './assets/photos/capcut.jpeg'
 import mshmohem from './assets/photos/ay5ara.jpeg'
 import light from './assets/photos/adobe-lightroom-icon.png'

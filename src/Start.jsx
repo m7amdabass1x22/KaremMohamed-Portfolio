@@ -1,5 +1,5 @@
 import React from 'react'
-import karem from './assets/photos/banana.PNG'
+import karem from './assets/photos/contantimge.PNG'
 
 export default function Start() {
     return (
@@ -8,7 +8,7 @@ export default function Start() {
                 <div className=' justify-center md:w-[40%] h-150   flex items-center  '>
                     <img src={karem} className='h-130 border-2 border-white  rounded-3xl animate__animated animate__fadeInLeft' alt="" />
 
-6
+
                 </div>
                 <div className='justify-end h-auto mt-20 md:mt-0 md:w-[60%] md:h-150  flex   text-end flex-col items-end gap-5 animate__animated animate__fadeInLeft'>
                     <h1 className='text-6xl md:text-8xl font-light font-bigest font-100  text-white  '>
