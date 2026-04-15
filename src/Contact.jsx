@@ -17,9 +17,9 @@ export default function Contact() {
                     <h1 className=' text-5xl   font-edits font-bold text-white  '>
                         KAREM MOHAMED
                     </h1>
-                    <h1 className=' text-5xl   font-edits font-bold text-white  '>
+                    {/* <h1 className=' text-5xl   font-edits font-bold text-white  '>
                         Age:24
-                    </h1>
+                    </h1> */}
                     <h1 className=' text-4xl   font-edits font-bold text-white  '>
 phone nomber: 01028619308                    </h1>
 
@@ -41,7 +41,7 @@ phone nomber: 01028619308                    </h1>
 
 
 <img className='mt-5 h-30 md:animate__animated hover:animate__fadeInLeft' src={light} alt="" />
-<img className='mt-5 h-30 md:rounded-3xl animate__animated hover:animate__fadeInLeft' src={behance2} alt="" />
+{/* <img className='mt-5 h-30 md:rounded-3xl animate__animated hover:animate__fadeInLeft' src={behance2} alt="" /> */}
 
 
 </div>
