@@ -11,7 +11,7 @@ export default function LastProjects() {
             <div className="container  md:h-full  text-end  flex flex-col gap-10">
                 <div className="w-full  flex-row-reverse flex justify-between animate__animated animate__fadeInLeft ">
                     <div className=" flex flex-col gap-3 w-full md:w-[50%]  ">
-                        <h1 className=' w-full text-6xl  font-arabic font-bold text-white' > اخر الاعمال</h1>
+                        <h1 className=' w-full text-5xl md:text-8xl  font-bigest text-white' > اخر الاعمال</h1>
                         <p className=" md:text-baio font-arabic">مجموعه من المشاريع  التي  تعكس  شغفي  بالتميز في  المنتاج و التصوير </p>
 
                     </div>
@@ -40,7 +40,7 @@ export default function LastProjects() {
 
                     </div>
                     <div className="h-80 md:h-50 rounded-3xl border-4 border-white flex justify-center items-center">
-                        <video className=' w-full h-full   rounded-3xl' controls src={project4}></video>
+                        <video className=' w-full h-full   rounded-3xl ' controls src={project4}></video>
 
                     </div>
                     <div className="h-80 md:h-50 rounded-3xl border-4 border-white">
@@ -48,7 +48,7 @@ export default function LastProjects() {
 
                     </div>
                     <div className="h-80 md:h-50 rounded-3xl border-4 border-white">
-                        <video className=' w-full h-full   rounded-3xl' controls src={project6}></video>
+                        <video className=' w-full h-full   rounded-3xl object-cover' controls src={project6}></video>
 
                     </div>
 

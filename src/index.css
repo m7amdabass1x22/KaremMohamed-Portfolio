@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Boldonse&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Badeen+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Badeen+Display&display=swap');
 
 @import "tailwindcss";
 @plugin "daisyui";
 @theme{
 --font-Boldonse:  "Archivo Black", sans-serif;
 --font-arabic:  "Alexandria", sans-serif;
+--font-edits:   "Aldrich", sans-serif;
+--font-bigest:   "Badeen Display", system-ui;
 --color-baio:#A1A1AA;
 }

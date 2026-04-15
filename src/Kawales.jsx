@@ -26,7 +26,7 @@ export default function Kawales() {
 
                     </div>
                     <div className=' w-full  md:w-[50%]  text-end flex flex-col gap-5 p-10 animate__animated animate__fadeInLeft'>
-                        <h1 className=' text-4xl text-black md:text-7xl  flex flex-col gap-5  font-arabic font-bold  '>
+                        <h1 className=' text-5xl text-black md:text-8xl  flex flex-col gap-5  font-bigest   '>
                             <span className='block'>عن</span>
                             <span className='block'>المونتير</span>
                             <span className='block'>خلف</span>
