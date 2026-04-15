@@ -21,7 +21,7 @@ export default function Contact() {
                         Age:24
                     </h1> */}
                     <h1 className=' text-4xl   font-edits font-bold text-white  '>
-phone nomber: 01028619308                    </h1>
+phone number: 01028619308                    </h1>
 
 
 
